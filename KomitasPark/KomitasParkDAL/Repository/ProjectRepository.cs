@@ -130,7 +130,7 @@ namespace KomitasPark.KomitasParkDAL.Repository
             {
                 throw;
             }
-        }
+        } 
         public void SaveChanges()
         {
             context.SaveChanges();
