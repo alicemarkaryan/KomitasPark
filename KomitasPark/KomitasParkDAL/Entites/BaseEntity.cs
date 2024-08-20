@@ -6,6 +6,7 @@
         public string? Name { get; set; }
         public string? Code { get; set; }
 
+
         public BaseEntity(int id, string name, string code)
         {
             this.Id = id;
